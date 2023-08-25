@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import salman from './my pic.jpeg';
 import github from './Github.svg.png';
-import whatsapp from './whatsapp.jng';
+import whatsapp from './whatsapp.png';
 import mail from './mailsvg.png';
 import linkedin from './linkedin.png';
 
@@ -23,11 +23,11 @@ function Hi () {
     concept to delivery, with a focus on creating robust and maintainable code.I strive to create seamless 
     and intuitive user experiences."</div>
     <div className="icons"> 
-      <a href="" >
+      <a href="https://www.linkedin.com/in/shah-jee-b0b08b266/" >
         <img width={30} height={30} src={linkedin}></img>
       </a>
-
-      <a href="https://www.linkedin.com/in/shah-jee-b0b08b266/" >
+https
+      <a href="" >
         <img width={30} height={30} src={mail}></img>
       </a>
 
@@ -64,12 +64,12 @@ function Hi () {
     <ul className="skills">
       <li>HTML, CSS, JAVASCRIPT</li>
       <li>NODE JS, EXPRESS JS, MONGODB, REACTJS</li>
-      <li>BOOTSTRAP, TAILWIND, FIREBASE, GOOGLE CLOUD</li>
+      <li>BOOTSTRAP, FIREBASE, GOOGLE CLOUD</li>
     </ul>
 
     <h3 className="pro">Portfolio: </h3>
           <a className="a1" href="https://github.com/salmandhedhi7"></a> 
-          <a href=""></a>
+          <a href="https://www.behance.net/zeeshankhan173"></a>
 
     </div>
 
