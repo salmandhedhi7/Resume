@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import salman from './my pic.jpeg';
+import salman from './my pic r.jpeg';
 import github from './Github.svg.png';
 import whatsapp from './whatsapp.png';
 import mail from './mail.png';
