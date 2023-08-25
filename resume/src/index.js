@@ -4,8 +4,8 @@ import './index.css';
 import salman from './my pic.jpeg';
 import github from './Github.svg.png';
 import whatsapp from './whatsapp.png';
-import mail from './mailsvg.png';
-import linkedin from './linkedin.png';
+import mail from './mail.png';
+import linkedin from './link.png';
 
 
 function Hi () {
@@ -18,7 +18,7 @@ function Hi () {
     <h2 className="name">Mohammad Salman
 
     </h2>
-    <div className="content"> "I am a MERN Stack Developer with a passion for crafting efficient and 
+    <div className="content">"I am a MERN Stack Developer with a passion for crafting efficient and 
     user-centric web applications. Proficient in the entire software development lifecycle, from 
     concept to delivery, with a focus on creating robust and maintainable code.I strive to create seamless 
     and intuitive user experiences."</div>
@@ -26,8 +26,7 @@ function Hi () {
       <a href="https://www.linkedin.com/in/shah-jee-b0b08b266/" >
         <img width={30} height={30} src={linkedin}></img>
       </a>
-https
-      <a href="" >
+      <a href="mailto:msalmanmshahiddhidhe@gmail.com" >
         <img width={30} height={30} src={mail}></img>
       </a>
 
@@ -55,9 +54,8 @@ https
     
     <h2 ><u>PROFESSIONAL EXPERIENCE</u></h2>
     <ul className="exp">
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Mobile Repairing</li>
+      <li>Outdoor</li>
     </ul>
 
     <h2><u>SKILLS</u></h2>
@@ -67,7 +65,7 @@ https
       <li>BOOTSTRAP, FIREBASE, GOOGLE CLOUD</li>
     </ul>
 
-    <h3 className="pro">Portfolio: </h3>
+    <h2><u>PORTFOLIO</u></h2>
           <a className="a1" href="https://github.com/salmandhedhi7"></a> 
           <a href="https://www.behance.net/zeeshankhan173"></a>
 
