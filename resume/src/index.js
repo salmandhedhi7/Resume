@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import salman from './my pic.jpeg';
 import github from './Github.svg.png';
-import whatsapp from './whatsapp.jpg';
-import mail from './mail.png';
+import whatsapp from './whatsapp.jng';
+import mail from './mailsvg.png';
 import linkedin from './linkedin.png';
 
 
@@ -27,7 +27,7 @@ function Hi () {
         <img width={30} height={30} src={linkedin}></img>
       </a>
 
-      <a href="msalmanmshahiddhidhe@gmail.com" >
+      <a href="https://www.linkedin.com/in/shah-jee-b0b08b266/" >
         <img width={30} height={30} src={mail}></img>
       </a>
 
@@ -75,8 +75,5 @@ function Hi () {
 
 </div>
 }
-
-
-
 
 ReactDOM.render(<Hi />, document.querySelector("#root"));  
