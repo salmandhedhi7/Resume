@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import salman from './my pic r.jpeg';
+import salman from './salman.jpeg';
 import github from './Github.svg.png';
 import whatsapp from './whatsapp.png';
 import mail from './mail.png';
@@ -67,7 +67,7 @@ function Hi () {
 
     <h2><u>PORTFOLIO</u></h2>
           <a className="a1" href="https://github.com/salmandhedhi7"></a> 
-          <a href="https://www.behance.net/zeeshankhan173"></a>
+          <a href=""></a>
 
     </div>
 
